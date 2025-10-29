@@ -1,8 +1,8 @@
 {
     "name": "Crush USDC",
     "symbol": "CRUSH_USDC",
-    "description": "Only Possible On Solana",
-    "image": "https://raw.githubusercontent.com/solana-developers/opos-asset/main/assets/DeveloperPortal/image.png",
+    "description": "LP Token on crushonu-finance",
+    "image": "http://raw.githubusercontent.com/doanduchieupw/solana_token/refs/heads/main/crush_lp_usdc.jpg",
     "attributes": [
       {
         "trait_type": "Item",
