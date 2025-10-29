@@ -1,0 +1,7 @@
+{
+    "name": "USDC",
+    "symbol": "USDC",
+    "description": "Stable coin",
+    "image": "https://assets.coingecko.com/coins/images/6319/standard/usdc.png?1696506694",
+    "tags": ["stablecoin"]
+}
